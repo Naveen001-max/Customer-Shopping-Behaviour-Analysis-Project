@@ -164,19 +164,8 @@ Customer-Shopping-Behavior-Analysis
 
 > **Dashboard Screenshot**
 
-Add your dashboard image here after uploading it to GitHub.
+<img width="933" height="688" alt="Screenshot 2026-07-03 171049" src="https://github.com/user-attachments/assets/8a3c72d1-67b1-42cb-b8ca-e206f7996568" />
 
-```
-/images/dashboard.png
-```
-
-or
-
-```markdown
-![Dashboard](Dashboard.png)
-```
-
----
 
 # 🚀 Future Enhancements
 
